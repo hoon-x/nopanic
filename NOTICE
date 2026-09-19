@@ -1,0 +1,7 @@
+This product includes cJSON (MIT License).
+Copyright (c) 2009-2017 Dave Gamble and cJSON contributors.
+See third_party/licenses/cJSON.LICENSE for details.
+
+This product includes picohttpparser (MIT/Perl License).
+Copyright (c) 2009-2014 Kazuho Oku and other contributors.
+See third_party/licenses/picohttpparser.LICENSE for details.

@@ -53,3 +53,7 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Directorys
+build
+bpf/include/vmlinux.h
